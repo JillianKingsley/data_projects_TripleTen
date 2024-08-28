@@ -1,4 +1,4 @@
-﻿# File Title: conversion.funnel.retention.rates.project_v1.5_2024.08.28
+﻿# File Title: conversion.funnel.retention.rates.project_v1.6_2024.08.28
 
 This was the business analysis module project in the TripleTen Business Intelligence Analysis program. The project was the second one done in Google Sheets to expand my skills working with spreadsheets and it also applied business analytics skills including calculating conversion and retention rates.
 
@@ -11,8 +11,8 @@ Project's Google Sheets workbook can be found <a href='https://docs.google.com/s
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project. |
-| 2 | [Business Analytics Project Instructions] (https://github.com/JillianKingsley/data_projects_TripleTen/blob/940b4878af1efd53349e3f28c815eddb80648035/Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
-| 3 | [raw_user_activity.csv](Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 2 | [Business Analytics Project Instructions](https://github.com/JillianKingsley/data_projects_TripleTen/blob/940b4878af1efd53349e3f28c815eddb80648035/Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
+| 3 | [raw_user_activity.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/c558c8b4db8b871041e4b27d605639a8ff496cec/Conversion_Funnel_Retention_Rates_Project_Files/Business%20Analytics%20Project%20-%20raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
