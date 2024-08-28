@@ -10,7 +10,7 @@ The project's presentation video can be found <a href='https://www.youtube.com/l
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This page after the table of contents with all pertinent information about the project. |
+| 1 | README.md | This page with all pertinent information about the project. |
 | 2 | [Code Pudding Guidelines and Rules](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/Code%20Pudding%20Rules%20and%20Guidelines.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
 | 3 | [spotify-2023.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/spotify-2023.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 | 4 | [Spotify_Visualization-_Pudding_In_The_Work](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/Spotify_Visualization-_Pudding_In_The_Work.pptx) | The PowerPoint presentation that we entered into the contest.
