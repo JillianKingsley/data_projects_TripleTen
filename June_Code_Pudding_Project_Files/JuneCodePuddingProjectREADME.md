@@ -10,7 +10,7 @@ The project's presentation video can be found <a href='https://www.youtube.com/l
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This page after the table of contents with all pertinent information about the project. |
+| 1 | README.md | This page with all pertinent information about the project. |
 | 2 | [June Code Pudding Rules and Guidelines](https://github.com/JillianKingsley/data_projects_TripleTen/blob/677b3a48e881ce43ee75b873ca4efd6032f3c7c2/June_Code_Pudding_Project_Files/Code%20Pudding%20Rules%20and%20Guidelines.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
 | 3 | [sleep_health_and_lifestyle_dataset.csv](June_Code_Pudding_Project_Files/Sleep_health_and_lifestyle_dataset.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 | 4 | [Judges' Comments and Grades](https://github.com/JillianKingsley/data_projects_TripleTen/blob/677b3a48e881ce43ee75b873ca4efd6032f3c7c2/June_Code_Pudding_Project_Files/Team%20Stress%20Free%20Lifestyle%20June%20Code%20Pudding%20Judges'%20Comments%20and%20Grades.xlsx) | The comments and grades given by the contest judges to our team.
