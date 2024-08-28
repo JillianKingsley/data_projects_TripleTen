@@ -11,7 +11,7 @@ Project's Google Sheets workbook can be found <a href='https://docs.google.com/s
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project. |
-| 2 | [Business Analytics Project Instructions] (Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
+| 2 | [Business Analytics Project Instructions] (https://github.com/JillianKingsley/data_projects_TripleTen/blob/940b4878af1efd53349e3f28c815eddb80648035/Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
 | 3 | [raw_user_activity.csv](Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
