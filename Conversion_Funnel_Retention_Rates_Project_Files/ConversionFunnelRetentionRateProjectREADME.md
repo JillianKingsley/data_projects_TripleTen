@@ -10,9 +10,9 @@ Project's Google Sheets workbook can be found <a href='https://docs.google.com/s
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/Advanced_Spreadsheets_Rubric.pdf) | A .docx file with the provided project instructions from TripleTen. |
-| 3 | [raw_user_activity.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 1 | README.md | This current page with all relevant information about the project. |
+| 2 | [Business Analytics Project Instructions] (Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
+| 3 | [raw_user_activity.csv](Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
