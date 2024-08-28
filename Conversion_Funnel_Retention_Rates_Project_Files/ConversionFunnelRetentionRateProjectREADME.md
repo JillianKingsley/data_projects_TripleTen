@@ -5,7 +5,7 @@ This was the business analysis module project in the TripleTen Business Intellig
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Page of Project">](https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233)
 
 
-Project's Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233><u>here</u>.</a>
+Project's Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233'><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
