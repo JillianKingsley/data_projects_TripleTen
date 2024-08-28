@@ -1,18 +1,18 @@
-# File Title: nyc.airbnb.data_v1.2_2024.08.23
+# File Title: nyc.airbnb.data_v1.5_2024.08.28
 
 This was the first project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Advanced Spreadsheets. This project is about analyzing Airbnb listings in Manhattan, NYC to help a client decide what type of vacation rental property to invest in.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="Pivot Table and Bar Chart">](https://docs.google.com/spreadsheets/d/10qHwp-aoB-pWhKFM_GUHiElx9ERSwIXKpUCtOo-fCsY/edit?usp=sharing)
+[<img src="https://github.com/JillianKingsley/data_projects_TripleTen/blob/5d13f584fad4464afc497c4937b68dff6c23f704/NYC_Airbnb_Project_Files/NYCAirbnbDataProject.png" alt="Pivot Table and Bar Chart">](https://docs.google.com/spreadsheets/d/10qHwp-aoB-pWhKFM_GUHiElx9ERSwIXKpUCtOo-fCsY/edit?usp=sharing)
 
 
-Projects Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/10qHwp-aoB-pWhKFM_GUHiElx9ERSwIXKpUCtOo-fCsY/edit?usp=sharing><u>here</u>.</a>
+Projects Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/10qHwp-aoB-pWhKFM_GUHiElx9ERSwIXKpUCtOo-fCsY/edit?usp=sharing'><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 2 | [https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/Advanced_Spreadsheets_Rubric.pdf) | A .pdf file with the provided project review rubric provided by TripleTen. |
-| 3 | [nyc_airbnb_data.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 1 | README.md | This current page with all relevant information about the project. |
+| 2 | [Advanced Spreadsheets Rubric](https://github.com/JillianKingsley/data_projects_TripleTen/blob/5d13f584fad4464afc497c4937b68dff6c23f704/NYC_Airbnb_Project_Files/Advanced_Spreadsheets_Rubric.pdf) | A .pdf file with the provided project review rubric provided by TripleTen. |
+| 3 | [nyc_airbnb_data.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/5d13f584fad4464afc497c4937b68dff6c23f704/NYC_Airbnb_Project_Files/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
