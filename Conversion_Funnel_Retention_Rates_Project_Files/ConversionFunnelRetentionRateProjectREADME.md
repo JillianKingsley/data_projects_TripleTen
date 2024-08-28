@@ -1,4 +1,4 @@
-﻿# File Title: nyc.airbnb.data_v1.3_2024.08.23
+﻿# File Title: conversion.funnel.retention.rates.project_v1.5_2024.08.28
 
 This was the business analysis module project in the TripleTen Business Intelligence Analysis program. The project was the second one done in Google Sheets to expand my skills working with spreadsheets and it also applied business analytics skills including calculating conversion and retention rates.
 
@@ -11,8 +11,8 @@ Project's Google Sheets workbook can be found <a href='https://docs.google.com/s
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project. |
-| 2 | [Business Analytics Project Instructions] ('Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx') | A .docx file with the provided project instructions from TripleTen. |
-| 3 | [raw_user_activity.csv]('Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv') | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 2 | [Business Analytics Project Instructions] (Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
+| 3 | [raw_user_activity.csv](Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
