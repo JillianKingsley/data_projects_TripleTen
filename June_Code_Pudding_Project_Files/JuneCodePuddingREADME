@@ -1,0 +1,38 @@
+| Section Title | Description |
+| ----------- |----------- |
+| Data | Describes the source of data, included files, tables, and fields. |
+| Description | Describes the final product's purpose, software, format, and included visuals. |
+| Process | A general outline of how this project was completed. |
+| Findings | Insights learned from the data analysis. |
+| Judges’ Comments | Contest judges' comments and grades on the project. |
+
+### Data
+The data was one .csv file provided by TripleTen:
+- `'sleep_health_and_lifestyle_dataset.csv'`: Excel workbook with information on participants' gender, age, occupation, sleep duration and quality, stress level, physical activity level, BMI category, blood pressure, heart rate, daily steps, and whether they have a sleep disorder.
+
+### Description:
+- 8 slide Tableau story
+- Includes 4 Tableau dashboards
+
+### Process:
+We first reviewed the data individually.
+Next we met as a team and chose the dataset we would work with.
+We each explored the data in Tableau by making our own visualizations in Tableau.
+Then we met again and chose the visualizations and story we would use for our visual essay.
+I edited the visualizations for readability and visual appeal.
+My teammates worked on putting together the Tableau story.
+We worked together to write our presentation script.
+Lastly, we all gave the presentation on the Youtube livestream.
+
+### Findings:
+1. Sleep quality and duration were at their highest when stress level was lowest and vice versa.			
+2. Stress level was reduced as physical activity level increased except at the extreme ends of the range. 	
+3. Participants with Sleep disorders had higher average stress levels than those without.			
+4. Male dominated careers included Salesperson, Doctor, and Lawyer. Female dominated careers included Nurse, Teacher, and Accountant. Interestingly, in addition to reporting the lowest average stress levels, Engineer was also the most gender balanced occupation at 51% female and 49% male.
+5. Engineers reported best sleep duration and quality.
+6. Salespeople showed highest average stress levels of all occupations sampled.
+7. Engineers reported lowest average stress levels of all occupations sampled.
+
+### Judges' Comments:
+
+The judges' comments and grades can be found <a href='June_Code_Pudding_Project_Files/Team Stress Free Lifestyle June Code Pudding Judges' Comments and Grades.xlsx><u>here</u>.</a>
