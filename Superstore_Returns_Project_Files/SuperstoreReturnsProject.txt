@@ -1,8 +1,8 @@
-# File Title: superstore.returns.project_v1.4_2024.08.27
+# File Title: superstore.returns.project_v1.6_2024.08.28
 
 This was the first Tableau project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned about Tableau. This project is about analyzing order and return data to help a client decide what products and product sub-categories to discontinue and invest in, what areas to advertise in and how much to spend there, and better understand returns.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="Profits and Losses Dashboard">](https://public.tableau.com/views/SuperstoreReturnsProject_17246215020830/ProfitsLosses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[<img src="https://github.com/JillianKingsley/data_projects_TripleTen/blob/ffa6646507b2c00c9956aff0d5ac4dd47316bd12/Superstore_Returns_Project_Files/ProfitsAndLossesDashboard.png" alt="Profits and Losses Dashboard">](https://public.tableau.com/views/SuperstoreReturnsProject_17246215020830/ProfitsLosses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 The project's Tableau workbook can be found <a href='https://public.tableau.com/views/SuperstoreReturnsProject_17246215020830/AverageProfitAverageReturnRate?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link><u>here</u>.</a>
@@ -10,9 +10,10 @@ The project's Tableau workbook can be found <a href='https://public.tableau.com/
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Superstore README] (link) | Explanation of my findings and recommendations with a link to the Tableau Public workbook. |
-| 2 | [https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/Advanced_Spreadsheets_Rubric.pdf) | A .pdf file with the provided data visualizations rubric from TripleTen. |
-| 3 | [superstore.xls](https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 1 | Whole Project README | This page with all the pertinent project information.
+| 2 | [Superstore Findings and Recommendations README](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ffa6646507b2c00c9956aff0d5ac4dd47316bd12/Superstore_Returns_Project_Files/SuperstoreReturnsREADME.md) | Explanation of my findings and recommendations with a link to the Tableau Public workbook. |
+| 3 | [Data Visualizations Rubric](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ffa6646507b2c00c9956aff0d5ac4dd47316bd12/Superstore_Returns_Project_Files/Data_Visualization_Rubric.pdf) | A .pdf file with the provided data visualizations rubric from TripleTen. |
+| 4 | [superstore.xls](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ffa6646507b2c00c9956aff0d5ac4dd47316bd12/Superstore_Returns_Project_Files/Superstore%20(1).xls) | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
