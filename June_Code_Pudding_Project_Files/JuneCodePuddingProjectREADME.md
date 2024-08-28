@@ -1,19 +1,19 @@
-﻿# File Title: june.code.pudding.project_v1.3_2024.08.28
+﻿# File Title: june.code.pudding.project_v1.4_2024.08.28
 
 This was the second Code Pudding I competed in. It was a group project for a contest designed to showcase what we've learned about creating stories with data in the form of visual essays from Tableau visualizations.
 
 [<img src="June_Code_Pudding_Project_Files/HowStressAffectedSleepSlide.png" alt="How Stress Affected Sleep Slide">](https://public.tableau.com/views/Presentation_d1_SleepHealthLifestyleDataset_17201177589570/StressManagementforCareerChangers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-The project's presentation video can be found <a href='https://www.youtube.com/live/BZujV8Sfqbk?si=0e82PnPecdE-YKQC><u>here</u>.</a>
+The project's presentation video can be found <a href='https://www.youtube.com/live/BZujV8Sfqbk?si=0e82PnPecdE-YKQC'><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This page after the table of contents with all pertinent information about the project. |
-| 2 | [June Code Pudding Rules and Guidelines](June_Code_Pudding_Project_Files/Code Pudding Rules and Guidelines.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
+| 2 | [June Code Pudding Rules and Guidelines](https://github.com/JillianKingsley/data_projects_TripleTen/blob/677b3a48e881ce43ee75b873ca4efd6032f3c7c2/June_Code_Pudding_Project_Files/Code%20Pudding%20Rules%20and%20Guidelines.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
 | 3 | [sleep_health_and_lifestyle_dataset.csv](June_Code_Pudding_Project_Files/Sleep_health_and_lifestyle_dataset.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
-| 4 | [Judges' Comments and Grades](June_Code_Pudding_Project_Files/Team Stress Free Lifestyle June Code Pudding Judges' Comments and Grades.xlsx) | The comments and grades given by the contest judges to our team.
+| 4 | [Judges' Comments and Grades](https://github.com/JillianKingsley/data_projects_TripleTen/blob/677b3a48e881ce43ee75b873ca4efd6032f3c7c2/June_Code_Pudding_Project_Files/Team%20Stress%20Free%20Lifestyle%20June%20Code%20Pudding%20Judges'%20Comments%20and%20Grades.xlsx) | The comments and grades given by the contest judges to our team.
 
 | Section Title | Description |
 | ----------- |----------- |
