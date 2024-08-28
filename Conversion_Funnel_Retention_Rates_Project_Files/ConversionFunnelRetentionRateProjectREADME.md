@@ -2,7 +2,7 @@
 
 This was the business analysis module project in the TripleTen Business Intelligence Analysis program. The project was the second one done in Google Sheets to expand my skills working with spreadsheets and it also applied business analytics skills including calculating conversion and retention rates.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Page of Project">](https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233)
+[<img src="Conversion_Funnel_Retention_Rates_Project_Files/ConversionFunnelRetentionRatesProject.png" alt="First Page of Project">](https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233)
 
 
 Project's Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233'><u>here</u>.</a>
@@ -11,8 +11,8 @@ Project's Google Sheets workbook can be found <a href='https://docs.google.com/s
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project. |
-| 2 | [Business Analytics Project Instructions] (Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx) | A .docx file with the provided project instructions from TripleTen. |
-| 3 | [raw_user_activity.csv](Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 2 | [Business Analytics Project Instructions] ('Conversion_Funnel_Retention_Rates_Project_Files/BusinessAnalyticsProjectInstructions.docx') | A .docx file with the provided project instructions from TripleTen. |
+| 3 | [raw_user_activity.csv]('Conversion_Funnel_Retention_Rates_Project_Files/Business Analytics Project - raw_user_activity.csv') | The original data file provided by TripleTen that was used in the analysis of this project. |
 
 | Section Title | Description |
 | ----------- |----------- |
