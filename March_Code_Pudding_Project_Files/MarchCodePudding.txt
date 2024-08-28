@@ -2,18 +2,18 @@
 
 This was the first Code Pudding I competed in. It was a group project for a contest designed to showcase what we've learned about creating stories with data in the form of visual essays from Tableau visualizations.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="First Slide">](https://public.tableau.com/views/SuperstoreReturnsProject_17246215020830/ProfitsLosses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[<img src="March_Code_Pudding_Project_Files/FirstSlide.png" alt="First Slide">](https://public.tableau.com/views/SuperstoreReturnsProject_17246215020830/ProfitsLosses?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-The project's presentation video can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=agc_GDt4VEpXbplA&t=1142><u>here</u>.</a>
+The project's presentation video can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=agc_GDt4VEpXbplA&t=1142'><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This page after the table of contents with all pertinent information about the project. |
-| 2 | [https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/Advanced_Spreadsheets_Rubric.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
-| 3 | [spotify-2023.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
-| 4 | [Spotify_Visualization-_Pudding_In_The_Work] (link) | The PowerPoint presentation that we entered into the contest.
+| 2 | [Code Pudding Guidelines and Rules] (https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/Code%20Pudding%20Rules%20and%20Guidelines.pdf) | A .pdf file with the guidelines and rules for the competition from TripleTen. |
+| 3 | [spotify-2023.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/spotify-2023.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 4 | [Spotify_Visualization-_Pudding_In_The_Work](https://github.com/JillianKingsley/data_projects_TripleTen/blob/ecf3ba82f39a1b8b8557a2fdf68091fc3ffab0a9/March_Code_Pudding_Project_Files/Spotify_Visualization-_Pudding_In_The_Work.pptx) | The PowerPoint presentation that we entered into the contest.
 
 | Section Title | Description |
 | ----------- |----------- |
