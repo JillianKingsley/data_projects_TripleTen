@@ -1,20 +1,21 @@
-# File Title: zomato.project_v1.2_2024.08.27
+# File Title: zomato.project_v1.5_2024.08.28
 
 This was the final project I worked on in the TripleTen Business Intelligence Analytics Program. It was an independent project designed to showcase what I have learned over the course of the program. This project is about analyzing Zomato's customer data to identify the key customer to support their marketing efforts.
 
-[<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project1Pic.png" alt="Total Sales by Customer Metrics Dashboard">](https://public.tableau.com/views/ZomatoCustomerSegmentationAnalysis_17240963904930/TotalSalesbyCustomerMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[<img src="https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/ZomatoProjectDashboard.png" alt="Total Sales by Customer Metrics Dashboard">](https://public.tableau.com/views/ZomatoCustomerSegmentationAnalysis_17240963904930/TotalSalesbyCustomerMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-The project's Tableau workbook can be found <a href='https://public.tableau.com/views/ZomatoCustomerSegmentationAnalysis_17240963904930/TotalSalesbyCustomerMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link><u>here</u>.</a>
+The project's Tableau workbook can be found <a href='https://public.tableau.com/views/ZomatoCustomerSegmentationAnalysis_17240963904930/TotalSalesbyCustomerMetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link'><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of Contents. |
-| 2 | [Final Project Grading Criteria] (link) | A .pdf file with the grading criteria for the project provided by TripleTen. |
-| 3 | [superstore.xls](https://github.com/JillianKingsley/data_projects_TripleTen/blob/main/nyc_airbnb_data%20-%20data_dictionary.csv) | The original data file provided by TripleTen that was used in the analysis of this project. |
-| 4 | [Zomato Project Report] (link) | The .pdf file of my project report with all my findings and recommendations for Zomato. |
-| 5 | [Zomato Project Decomposition] (link) | The .pdf file of my project decomposition which I created at the beginning of the project. |
+| 2 | [Final Project Assessment Criteria](https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/TripleTen%20BIA%20Final%20Project%20Assessment%20Criteria.pdf) | A .pdf file with the assessment criteria for the project provided by TripleTen. |
+| 3 | [zomato_orders.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/zomato_orders.csv) | One of the source files from TripleTen that I used in this analysis. |
+| 4 | [zomato_users.csv](https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/zomato_users.csv) | One of the source files from TripleTen that I used in this analysis. |
+| 5 | [Zomato Project Report](https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/BIA_Final_Project_Report_Jillian_Kingsley.pdf) | The .pdf file of my project report with all my findings and recommendations for Zomato. |
+| 6 | [Zomato Project Decomposition](https://github.com/JillianKingsley/data_projects_TripleTen/blob/46d8c1065b8ec48985fb4e5221ebd2e128c0e1e8/Zomato_Project_Files/Jillian%20Kingsley%20BIA%20Final%20Project%20Decomposition.pdf) | The .pdf file of my project decomposition which I created at the beginning of the project. |
 
 | Section Title | Description |
 | ----------- |----------- |
