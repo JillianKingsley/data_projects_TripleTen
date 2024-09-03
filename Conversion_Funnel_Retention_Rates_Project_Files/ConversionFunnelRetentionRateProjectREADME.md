@@ -2,7 +2,7 @@
 
 This was the business analysis module project in the TripleTen Business Intelligence Analysis program. The project was the second one done in Google Sheets to expand my skills working with spreadsheets and it also applied business analytics skills including calculating conversion and retention rates.
 
-[<img src="Conversion_Funnel_Retention_Rates_Project_Files/ConversionFunnelRetentionRatesProject.png" alt="Conversion Funnel">](https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=152187627#gid=152187627)
+[<img src="(Conversion_Funnel_Retention_Rates_Project_Files/ConversionFunnel.png)" alt="Conversion Funnel">](https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=152187627#gid=152187627)
 
 
 Project's Google Sheets workbook can be found <a href='https://docs.google.com/spreadsheets/d/1ylkhNU3wNnf1mYEA9I-wngYnJjapI0_dXW0JpJ0Qrlk/edit?gid=868644233#gid=868644233'><u>here</u>.</a>
